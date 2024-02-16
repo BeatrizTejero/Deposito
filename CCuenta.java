@@ -1,5 +1,11 @@
 public class CCuenta {
 
+    /*Aquí voy a insertar los Javadoc*/
+    
+    /* @author: Entornos de Desarrollo y Beatriz Tejero
+    * @version: 2.0
+    */
+    
     /**
      * @return the nombre
      */
